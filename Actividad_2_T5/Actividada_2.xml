@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<ListaCD>
+    <CD>
+        <tituloAlbum>Barrio Fino</tituloAlbum>
+        <artista>Daddy Yankee</artista>
+        <cancion tiempo="2:57">Tu Principe</cancion>
+        <cancion tiempo="3:34">Las Gatas</cancion>
+        <cancion tiempo="2:45">Gasolina</cancion>
+        <cancion tiempo="3:12">Perros Salvajes</cancion>
+        <cancion tiempo="4:30">King Daddy</cancion>
+        <cancion tiempo="3:01">Lo que Pasó Pasó</cancion>
+        <cancion tiempo="4:09">Cuentame</cancion>
+        <cancion tiempo="3:30">Dale Caliente</cancion>
+        <cancion tiempo="3:12">El Muro</cancion>
+        <cancion tiempo="3:02">Salud y Vida</cancion>
+        <selloDiscografico>Pina Records</selloDiscografico>
+        <añoPublicacion>2004</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Fenix</tituloAlbum>
+        <artista>Nicky Jam</artista>
+        <cancion tiempo="3:20">El Ganador</cancion>
+        <cancion tiempo="3:03">Estrella</cancion>
+        <cancion tiempo="2:56">Por el Momento</cancion>
+        <cancion tiempo="3:46">Amor Prohibido</cancion>
+        <cancion tiempo="4:21">El Amante</cancion>
+        <cancion tiempo="3:34">Superhéroe</cancion>
+        <cancion tiempo="2:59">Si tu la Ves</cancion>
+        <cancion tiempo="3:45">No te puedo Olvidar</cancion>
+        <cancion tiempo="3:02">Tu Hombre</cancion>
+        <cancion tiempo="2:34">No te vayas</cancion>
+        <selloDiscografico>Industria IND</selloDiscografico>
+        <añoPublicacion>2016</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Ápices</tituloAlbum>
+        <artista>Beret</artista>
+        <cancion tiempo="3:21">Bye Bye</cancion>
+        <cancion tiempo="3:43">Bala Perdida</cancion>
+        <cancion tiempo="5:12">Nunca se hará tarde</cancion>
+        <cancion tiempo="2:46">Frío</cancion>
+        <cancion tiempo="3:11">Bless</cancion>
+        <cancion tiempo="3:45">Cóseme</cancion>
+        <cancion tiempo="2:45">Pandora</cancion>
+        <cancion tiempo="4:12">Hoy</cancion>
+        <cancion tiempo="3:56">Ceniza</cancion>
+        <cancion tiempo="2:48">Diez mil porques</cancion>
+        <selloDiscografico>B-Records</selloDiscografico>
+        <añoPublicacion>2012</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Mar de Cristal</tituloAlbum>
+        <artista>Soge Culebra</artista>
+        <cancion tiempo="3:10">Distancia</cancion>
+        <cancion tiempo="2:43">Todo Pasó</cancion>
+        <cancion tiempo="4:22">Mar de Cristal</cancion>
+        <cancion tiempo="3:56">Mi Isla</cancion>
+        <cancion tiempo="4:11">Abraza a tu madre</cancion>
+        <cancion tiempo="2:15">Lo que Vendrá</cancion>
+        <cancion tiempo="4:45">Escondes una Espada</cancion>
+        <cancion tiempo="2:52">Suena</cancion>
+        <cancion tiempo="3:12">Soy de Barrio</cancion>
+        <cancion tiempo="5:18">Desátame</cancion>
+        <selloDiscografico>DobleM</selloDiscografico>
+        <añoPublicacion>2018</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <cancion tiempo="3:10">Beat it</cancion>
+        <cancion tiempo="2:43">Billie Jean</cancion>
+        <cancion tiempo="4:22">The Girl is Mine</cancion>
+        <cancion tiempo="3:56">Thriller</cancion>
+        <cancion tiempo="4:11">Baby Be Mine</cancion>
+        <cancion tiempo="2:15">Human Nature</cancion>
+        <cancion tiempo="4:45">The lady in my Life</cancion>
+        <cancion tiempo="2:52">P.Y.T.</cancion>
+        <cancion tiempo="3:31">Wanna be Startin</cancion>
+        <cancion tiempo="5:18">Smooth Criminal</cancion>
+        <selloDiscografico>Quincy Jones</selloDiscografico>
+        <añoPublicacion>1982</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Visionary</tituloAlbum>    
+        <artista>Farruko</artista>
+        <cancion tiempo="4:01">Visionary</cancion>
+        <cancion tiempo="3:23">Fantasy</cancion>
+        <cancion tiempo="2:52">Obsesionado</cancion>
+        <cancion tiempo="3:16">Intimidad</cancion>
+        <cancion tiempo="4:12">Chillax</cancion>
+        <cancion tiempo="3:23">Back to the Future</cancion>
+        <cancion tiempo="2:45">HMB</cancion>
+        <cancion tiempo="3:52">Papi Champú</cancion>
+        <cancion tiempo="2:43">Ilusión</cancion>
+        <cancion tiempo="3:45">Power</cancion>
+        <selloDiscografico>Deezer</selloDiscografico>
+        <añoPublicacion>2005</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>2005</tituloAlbum>    
+        <artista>SFDK</artista>
+        <cancion tiempo="3:21">Intro</cancion>
+        <cancion tiempo="2:53">2005</cancion>
+        <cancion tiempo="4:52">Diana Fácil</cancion>
+        <cancion tiempo="5:21">Interludio</cancion>
+        <cancion tiempo="3:56">Bailes de salón</cancion>
+        <cancion tiempo="2:53">El niño güei</cancion>
+        <cancion tiempo="4:25">No eres feo ni ná</cancion>
+        <cancion tiempo="5:12">La habitación que más me gusta</cancion>
+        <cancion tiempo="5:43">Ojos Tristes</cancion>
+        <cancion tiempo="4:12">Fumar Cagando</cancion>
+        <selloDiscografico>SFDK Records</selloDiscografico>
+        <añoPublicacion>2005</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>La Promesa</tituloAlbum>    
+        <artista>Justin Quiles</artista>
+        <cancion tiempo="2:56">Adicto</cancion>
+        <cancion tiempo="3:12">La Amiga</cancion>
+        <cancion tiempo="3:23">Si ella Quisiera</cancion>
+        <cancion tiempo="3:43">Instagram</cancion>
+        <cancion tiempo="4:45">Otra Copa</cancion>
+        <cancion tiempo="5:12">Egoísta</cancion>
+        <cancion tiempo="3:25">Se rindió</cancion>
+        <cancion tiempo="3:29">De la nada</cancion>
+        <cancion tiempo="3:28">Vacío</cancion>
+        <cancion tiempo="3:59">Confusion</cancion>
+        <selloDiscografico>Rich Music</selloDiscografico>
+        <añoPublicacion>2016</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Recess</tituloAlbum>    
+        <artista>Skrillex</artista>
+        <cancion tiempo="3:26">All is Fair in Love</cancion>
+        <cancion tiempo="3:38">Recess</cancion>
+        <cancion tiempo="2:49">Stranger</cancion>
+        <cancion tiempo="4:32">Try it Out</cancion>
+        <cancion tiempo="5:29">Ragga Bomb</cancion>
+        <cancion tiempo="5:48">Dirty Vibe</cancion>
+        <cancion tiempo="3:31">Coast is Clear</cancion>
+        <cancion tiempo="2:09">Fuck that</cancion>
+        <cancion tiempo="4:18">Easy my Mind</cancion>
+        <cancion tiempo="3:14">Fire Away</cancion>
+        <selloDiscografico>OWSLA</selloDiscografico>
+        <añoPublicacion>2014</añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum>Divide</tituloAlbum>    
+        <artista>Ed Sheeran</artista>
+        <cancion tiempo="5:02">Eraser</cancion>
+        <cancion tiempo="4:52">Castle in the Hill</cancion>
+        <cancion tiempo="2:52">Dive</cancion>
+        <cancion tiempo="2:45">Shape of You</cancion>
+        <cancion tiempo="4:15">New Man</cancion>
+        <cancion tiempo="5:08">Happier</cancion>
+        <cancion tiempo="3:32">Perfect</cancion>
+        <cancion tiempo="5:37">Galway Girl</cancion>
+        <cancion tiempo="3:29">Barcelona</cancion>
+        <cancion tiempo="2:46">Supermarket Flowers</cancion>
+        <selloDiscografico>Atlantic Records UK</selloDiscografico>
+        <añoPublicacion>2017</añoPublicacion>    
+    </CD>
+</ListaCD>
